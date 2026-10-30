@@ -18,6 +18,6 @@ Use this folder as the project root. No build command is required; the output di
 
 ## Notes before launch
 
-- The contact form currently opens the visitor's email app and drafts a message to `admin@actsonewjersey.org`.
+- The contact form currently opens the visitor's email app and drafts a message to `connect@actsonewjersey.org`.
 - Donation and journal links still point to the existing NAACP NJ event pages.
 - Registration and volunteer intent buttons still point to the existing Google Forms.

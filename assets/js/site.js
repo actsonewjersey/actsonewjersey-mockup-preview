@@ -1,4 +1,4 @@
-const CONTACT_EMAIL = "admin@actsonewjersey.org";
+const CONTACT_EMAIL = "connect@actsonewjersey.org";
 
 const navToggle = document.querySelector("[data-nav-toggle]");
 const navMenu = document.querySelector("[data-nav-menu]");
